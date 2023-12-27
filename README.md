@@ -1,4 +1,3 @@
-# Biometric-Payment
 <!DOCTYPE html>
 <html lang="en">
 <head>
